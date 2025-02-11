@@ -29,7 +29,7 @@ h1 {
   font-size: 2rem;
 }
 
-#todo-input {
+#todo-input-main {
   display: flex;
   margin-bottom: 2rem;
 }
