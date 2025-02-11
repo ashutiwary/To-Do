@@ -29,7 +29,7 @@ h1 {
   font-size: 2rem;
 }
 
-.todo-input {
+#todo-input {
   display: flex;
   margin-bottom: 2rem;
 }
@@ -43,7 +43,7 @@ input[type="text"] {
   font-size: 1rem;
 }
 
-.add-button {
+#add-button {
   padding: 1rem 2rem;
   background: #2ecc71;
   color: white;
@@ -54,11 +54,11 @@ input[type="text"] {
   transition: background 0.3s ease;
 }
 
-.add-button:hover {
+#add-button:hover {
   background: #27ae60;
 }
 
-.todo-list {
+#todo-list {
   list-style: none;
 }
 
